@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "E:\\intellipat-blockchain\\Decentralized-Voting-Application-on-Ethereum-Blockchain\\contracts\\Voting.sol": {
+      "lastModificationDate": 1692352120107,
+      "contentHash": "02ed4d26e2bc2cc6cb17fd6d52b6ab26",
+      "sourceName": "contracts/Voting.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.18"
+      ],
+      "artifacts": [
+        "Voting"
+      ]
+    }
+  }
+}
